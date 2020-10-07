@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+config.py
+tweepy_hello_world.ipynb
+twitter_web_scraping_online.ipynb
